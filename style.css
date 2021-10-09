@@ -42,4 +42,5 @@ linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://images.unsplash.c
 #message{
     font-weight: bolder;
     color: aliceblue;
+    text-align: center;
 }
