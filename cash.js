@@ -29,7 +29,7 @@ checkButton.addEventListener("click",function(){
     }
 }
 
-);
+)
 function change(output){
 for(var i=0;i<numberOfNotes.length;i++){
 numberOfNotes[i].innerText=Math.trunc(output/availableNotes[i]);
